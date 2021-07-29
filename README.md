@@ -12,18 +12,23 @@
   * [License](#License)
   * [Contributions](#Contributions)
   
+  ## Video
+  
+  https://youtu.be/NFfkmHNHXyg
 
   ## Usage
 
-  npm start
+  `npm start`
 
   ## Installation
 
-  To install please run npm i
+  To install please run 
+  `npm i`
 
   ## Tests 
 
-  To test please run npm test
+  To test please run 
+  `npm test`
 
   ## License 
 
